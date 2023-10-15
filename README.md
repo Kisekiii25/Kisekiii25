@@ -1,11 +1,9 @@
+![logo](https://scontent.fmnl30-1.fna.fbcdn.net/v/t39.30808-6/381573831_2226132810929346_8362554295264574795_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF9i_slkIYiw3X6DuS1fsPbORcwVaV29vQ5FzBVpXb29HfhksUW_qncVyTlefjz0xTyZTmVudGm1YzTMyppnVhC&_nc_ohc=RP_4jqezs98AX8N4Go0&_nc_ht=scontent.fmnl30-1.fna&oh=00_AfBhSnfRtmfy5rNAhUgKNCQP4cH6icQu_zNRWBh6ubCAzA&oe=6531554E)
 <h1 align="center">Hi 👋, I'm Keivin</h1>
 <h3 align="center">A student who dreams of becoming a full-stack developer</h3>
+<br>
 
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kisekiii25&label=Profile%20views&color=0e75b6&style=flat" alt="kisekiii25" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kisekiii25" alt="kisekiii25" /></a> </p>
+<img align="right" alt="coding" width="250" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
 
 - 🌱I'm currently Learning **Java Script,Some of HTML and CSS**
 
