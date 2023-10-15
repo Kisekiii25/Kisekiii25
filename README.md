@@ -3,6 +3,8 @@
 <h3 align="center">A student who dreams of becoming a full-stack developer</h3>
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kisekiii25&label=Profile%20views&color=0e75b6&style=flat" alt="kisekiii25" /> </p>
+
 <img align="right" alt="coding" width="250" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
 
 - 🌱I'm currently Learning **Java Script,Some of HTML and CSS**
