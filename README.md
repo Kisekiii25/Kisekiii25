@@ -9,7 +9,7 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img src="https://camo.githubusercontent.com/51703999dab3d2d0f29b394be948cfdd9e0ecdfd3fc4d79f6c1866ed8273f1fb/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f2537426361726c63617374616e61732537442f636f756e742e737667" alt="Kisekiii25" data-canonical-src="https://profile-counter.glitch.me/%7Bcarlcastanas%7D/count.svg" style="max-width: 100%;"></a></p>
 <hr>
 
-- 🌱I'm currently Learning **Java Script,Some of HTML and CSS**
+- 🌱I'm currently Learning **Java Script, HTML and CSS**
 
 - 📫 How to reach me **lunozakeivinchristian@gmail.com**
 <hr>
