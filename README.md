@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Keivin</h1>
 <h3 align="center">A student who dreams of becoming a full-stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kisekiii25&label=Profile%20views&color=0e75b6&style=flat" alt="kisekiii25" /> </p>
+<img align="left" src="https://camo.githubusercontent.com/73420057bc36b57e771a462aefde722b7c386a6b9d978f21f225d9127ee48369/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d307833656638266c6162656c3d50726f66696c65253230566965777326636f6c6f723d353635663839267374796c653d666c6174" alt="Views" data-canonical-src="https://komarev.com/ghpvc/?username=0x3ef8&amp;label=Profile%20Views&amp;color=565f89&amp;style=flat" style="max-width: 100%;"> <br/>
 
 - 🌱 I’m currently learning **Java, HTML,CSS and JavaScript**
 
