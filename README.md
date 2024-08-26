@@ -66,11 +66,11 @@
 
 <br clear="both">
 
-<img align="right" height="230" src="https://64.media.tumblr.com/d94a09a4cee89de17b908b67d385d612/e0186e53a42a6120-00/s540x810/18361329f6bb2ee37ad728a77c0c4b3aee8a8704.gifv"  />
+<img align="center" height="230" src="https://64.media.tumblr.com/d94a09a4cee89de17b908b67d385d612/e0186e53a42a6120-00/s540x810/18361329f6bb2ee37ad728a77c0c4b3aee8a8704.gifv"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/316qtw4a5nqi36ds5a3swv5w3254">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=316qtw4a5nqi36ds5a3swv5w3254&count=5&unique=true" alt="Spotify recently played"  />
   </a>
