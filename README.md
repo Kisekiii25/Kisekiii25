@@ -4,11 +4,11 @@
 
 <img align="left" src="https://camo.githubusercontent.com/73420057bc36b57e771a462aefde722b7c386a6b9d978f21f225d9127ee48369/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d307833656638266c6162656c3d50726f66696c65253230566965777326636f6c6f723d353635663839267374796c653d666c6174" alt="Views" data-canonical-src="https://komarev.com/ghpvc/?username=0x3ef8&amp;label=Profile%20Views&amp;color=565f89&amp;style=flat" style="max-width: 100%;"> <br/>
 
-- 🌱 I’m currently learning **Java, HTML,CSS and JavaScript**
+- 🌱 I’m currently learning **Java, JavaScript and Reactjs**
 
 - 👨‍💻 Know me more at [kisekiii25.github.io/keivinInfo](https://kisekiii25.github.io/keivinInfo/?fbclid=IwY2xjawE5DPVleHRuA2FlbQIxMAABHRNWRIA9SXcrT9L2v3OmBUcNLbFag0XdSenX7OuYCok3Xa9T5a61mzPVGg_aem_NdcJyl__nYjuT4KUJjY1eA)
 
-- 💬 Ask me about **Basic HTML, CSS JS AND JAVA**
+- 💬 You can ask me about **Basic HTML, CSS, JS, Reactjs AND JAVA**
 
 - 📫 How to reach me **lunozakeivinchristian@gmail.com**
 
