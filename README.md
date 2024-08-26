@@ -66,7 +66,7 @@
 
 <br clear="both">
 
-<img align="right" height="250" src="https://64.media.tumblr.com/d94a09a4cee89de17b908b67d385d612/e0186e53a42a6120-00/s540x810/18361329f6bb2ee37ad728a77c0c4b3aee8a8704.gifv"  />
+<img align="right" height="230" src="https://64.media.tumblr.com/d94a09a4cee89de17b908b67d385d612/e0186e53a42a6120-00/s540x810/18361329f6bb2ee37ad728a77c0c4b3aee8a8704.gifv"  />
 
 ###
 
