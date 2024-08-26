@@ -8,6 +8,7 @@
 </div>
 
 ###
+<hr/>
 
 <h3 align="left">SOCIALS :</h3>
 
