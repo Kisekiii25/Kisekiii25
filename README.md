@@ -1,4 +1,5 @@
 ![logo](Cover.gif)
+
 <h3 align="left">PROFILE VISITORS :</h3>
 
 ###
@@ -7,7 +8,8 @@
   <img src="https://profile-counter.glitch.me/kisekiii/count.svg?"  />
 </div>
 
-###
+### 
+<br/>
 
 <h3 align="left">SOCIALS :</h3>
 
@@ -21,6 +23,8 @@
 </div>
 
 ###
+<br/>
+
 
 <h3 align="left">TECHNOLOGY STACK :</h3>
 
@@ -41,6 +45,8 @@
 </div>
 
 ###
+<br/>
+
 
 <h3 align="left">STATS :</h3>
 
@@ -52,6 +58,7 @@
 </div>
 
 ###
+<br/>
 
 <h3 align="left">MY SPOTIFY :</h3>
 
@@ -59,7 +66,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://64.media.tumblr.com/d94a09a4cee89de17b908b67d385d612/e0186e53a42a6120-00/s540x810/18361329f6bb2ee37ad728a77c0c4b3aee8a8704.gifv"  />
+<img align="right" height="250" src="https://64.media.tumblr.com/d94a09a4cee89de17b908b67d385d612/e0186e53a42a6120-00/s540x810/18361329f6bb2ee37ad728a77c0c4b3aee8a8704.gifv"  />
 
 ###
 
@@ -74,3 +81,4 @@
 <img src="https://raw.githubusercontent.com/kisekiii/kisekiii/output/snake.svg" alt="Snake animation" />
 
 ###
+<br/>
