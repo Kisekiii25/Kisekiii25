@@ -1,26 +1,79 @@
 ![logo](Cover.gif)
-<h1 align="center">Hi 👋, I'm Keivin</h1>
-<h3 align="center">A student who dreams of becoming a full-stack developer</h3>
 
-<img align="left" src="https://camo.githubusercontent.com/73420057bc36b57e771a462aefde722b7c386a6b9d978f21f225d9127ee48369/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d307833656638266c6162656c3d50726f66696c65253230566965777326636f6c6f723d353635663839267374796c653d666c6174" alt="Views" data-canonical-src="https://komarev.com/ghpvc/?username=0x3ef8&amp;label=Profile%20Views&amp;color=565f89&amp;style=flat" style="max-width: 100%;"> <br/>
+<h3 align="left">PROFILE VISITORS :</h3>
 
-- 🌱 I’m currently learning **Java, JavaScript and Reactjs**
+###
 
-- 👨‍💻 Know me more at [kisekiii25.github.io/keivinInfo](https://kisekiii25.github.io/keivinInfo/?fbclid=IwY2xjawE5DPVleHRuA2FlbQIxMAABHRNWRIA9SXcrT9L2v3OmBUcNLbFag0XdSenX7OuYCok3Xa9T5a61mzPVGg_aem_NdcJyl__nYjuT4KUJjY1eA)
+<div align="left">
+  <img src="https://profile-counter.glitch.me/kisekiii/count.svg?"  />
+</div>
 
-- 💬 You can ask me about **Basic HTML, CSS, JS, Reactjs AND JAVA**
+###
 
-- 📫 How to reach me **lunozakeivinchristian@gmail.com**
+<h3 align="left">SOCIALS :</h3>
 
-- ⚡ Fun fact **My hobbies is coding**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/Kisekiii25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keivin christian luñoza" height="30" width="40" /></a>
-<a href="https://instagram.com/kisekiii25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kisekiii25" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="40" alt="discord logo"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kisekiii25&" alt="kisekiii25" /></p>
+<h3 align="left">TECHNOLOGY STACK :</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+</div>
+
+###
+
+<h3 align="left">STATS :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kisekiii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kisekiii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">MY SPOTIFY :</h3>
+
+###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://64.media.tumblr.com/d94a09a4cee89de17b908b67d385d612/e0186e53a42a6120-00/s540x810/18361329f6bb2ee37ad728a77c0c4b3aee8a8704.gifv"  />
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/316qtw4a5nqi36ds5a3swv5w3254">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316qtw4a5nqi36ds5a3swv5w3254&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/kisekiii/kisekiii/output/snake.svg" alt="Snake animation" />
+
+###
