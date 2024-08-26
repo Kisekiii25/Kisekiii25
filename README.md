@@ -1,4 +1,4 @@
-![logo](yeSYES.png)
+![logo](Cover.gif)
 <h1 align="center">Hi 👋, I'm Keivin</h1>
 <h3 align="center">A student who dreams of becoming a full-stack developer</h3>
 
