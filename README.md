@@ -1,5 +1,4 @@
 ![logo](Cover.gif)
-
 <h3 align="left">PROFILE VISITORS :</h3>
 
 ###
@@ -8,8 +7,7 @@
   <img src="https://profile-counter.glitch.me/kisekiii/count.svg?"  />
 </div>
 
-### 
-<br/>
+###
 
 <h3 align="left">SOCIALS :</h3>
 
@@ -23,8 +21,6 @@
 </div>
 
 ###
-<br/>
-
 
 <h3 align="left">TECHNOLOGY STACK :</h3>
 
@@ -45,8 +41,6 @@
 </div>
 
 ###
-<br/>
-
 
 <h3 align="left">STATS :</h3>
 
@@ -58,7 +52,6 @@
 </div>
 
 ###
-<br/>
 
 <h3 align="left">MY SPOTIFY :</h3>
 
@@ -66,11 +59,11 @@
 
 <br clear="both">
 
-<img align="center" height="230" src="https://64.media.tumblr.com/d94a09a4cee89de17b908b67d385d612/e0186e53a42a6120-00/s540x810/18361329f6bb2ee37ad728a77c0c4b3aee8a8704.gifv"  />
+<img align="right" height="220" src="https://64.media.tumblr.com/d94a09a4cee89de17b908b67d385d612/e0186e53a42a6120-00/s540x810/18361329f6bb2ee37ad728a77c0c4b3aee8a8704.gifv"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/316qtw4a5nqi36ds5a3swv5w3254">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=316qtw4a5nqi36ds5a3swv5w3254&count=5&unique=true" alt="Spotify recently played"  />
   </a>
@@ -81,4 +74,3 @@
 <img src="https://raw.githubusercontent.com/kisekiii/kisekiii/output/snake.svg" alt="Snake animation" />
 
 ###
-<br/>
