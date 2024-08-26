@@ -1,4 +1,5 @@
 ![logo](Cover.gif)
+
 <h3 align="left">PROFILE VISITORS :</h3>
 
 ###
@@ -15,14 +16,24 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="40" alt="discord logo"  />
+  <a href="https://www.facebook.com/Kisekiii25" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/kisekiii25/?hl=en" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto: lunozakeivinchristian@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://discordapp.com/users/1215281926105989120" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="40" alt="discord logo"  />
+  </a>
 </div>
 
 ###
 <hr/>
+
+
 <h3 align="left">TECHNOLOGY STACK :</h3>
 
 ###
@@ -43,6 +54,7 @@
 
 ###
 <hr/>
+
 <h3 align="left">STATS :</h3>
 
 ###
@@ -54,6 +66,7 @@
 
 ###
 <hr/>
+
 <h3 align="left">MY SPOTIFY :</h3>
 
 ###
