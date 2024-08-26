@@ -22,7 +22,7 @@
 </div>
 
 ###
-
+<hr/>
 <h3 align="left">TECHNOLOGY STACK :</h3>
 
 ###
@@ -42,7 +42,7 @@
 </div>
 
 ###
-
+<hr/>
 <h3 align="left">STATS :</h3>
 
 ###
@@ -53,7 +53,7 @@
 </div>
 
 ###
-
+<hr/>
 <h3 align="left">MY SPOTIFY :</h3>
 
 ###
