@@ -1,5 +1,4 @@
 ![logo](Cover.gif)
-
 <h3 align="left">PROFILE VISITORS :</h3>
 
 ###
@@ -71,8 +70,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/kisekiii/kisekiii/output/snake.svg" alt="Snake animation" />
 
