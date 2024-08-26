@@ -5,7 +5,7 @@
 ###
 
 <div align="left">
-  <img src="https://profile-counter.glitch.me/Kisekiii25/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/kisekiii/count.svg?"  />
 </div>
 
 ###
@@ -19,7 +19,7 @@
   <a href="https://www.facebook.com/Kisekiii25" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/Kisekiii25/?hl=en" target="_blank">
+  <a href="https://www.instagram.com/kisekiii25/?hl=en" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
   </a>
   <a href="mailto: lunozakeivinchristian@gmail.com" target="_blank">
@@ -32,7 +32,6 @@
 
 ###
 <hr/>
-
 
 <h3 align="left">TECHNOLOGY STACK :</h3>
 
@@ -60,8 +59,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kisekiii25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kisekiii25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kisekiii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kisekiii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -79,13 +78,13 @@
 
 <div align="left">
   <a href="https://open.spotify.com/user/316qtw4a5nqi36ds5a3swv5w3254">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316qtw4a5nqi36ds5a3swv5w3254&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316qtw4a5nqi36ds5a3swv5w3254&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kisekiii25/Kisekiii25/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kisekiii/kisekiii/output/snake.svg" alt="Snake animation" />
 
 ###
 <hr/>
