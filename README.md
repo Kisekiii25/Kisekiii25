@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java, HTML,CSS and JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://kisekiii25.github.io/Keivin-s-Personal-Portfolio/](https://kisekiii25.github.io/Keivin-s-Personal-Portfolio/)
+//- 👨‍💻 All of my projects are available at [https://kisekiii25.github.io/Keivin-s-Personal-Portfolio/](https://kisekiii25.github.io/Keivin-s-Personal-Portfolio/)
 
 - 💬 Ask me about **Basic HTML, CSS JS AND JAVA**
 
