@@ -84,7 +84,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kisekiii25/Kisekiii25/output/snake.svg" alt="Snake animation" />
-
 ###
 <hr/>
