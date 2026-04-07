@@ -1,88 +1,37 @@
-![logo](Cover.gif)
+# Hi there, I'm Keivin! 👋
 
-<h3 align="left">PROFILE VISITORS :</h3>
+### Full-Stack Developer in Training | BSIS Student
+I am a passionate 2nd-year Information Systems student focused on building functional, problem-solving web applications. My goal is to master the **TALL/VILT** stack and create seamless digital experiences.
 
-###
+---
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/Kisekiii25/count.svg?"  />
-</div>
+### 🛠️ Tech Stack & Tools
 
-###
-<hr/>
+**Frontend Development**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-<h3 align="left">SOCIALS :</h3>
+**Backend & Database**
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-###
+**Currently Learning**
+* **Full-Stack:** Deepening my knowledge in **Laravel + React** integration.
+* **Styling:** Moving into **Tailwind CSS** for modern UI design.
+* **Type Safety:** Exploring **TypeScript** to write cleaner, more robust code.
 
-<div align="left">
-  <a href="https://www.facebook.com/Kisekiii2525" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/Kisekiii2525/?hl=en" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto: lunozakeivinchristian@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://discordapp.com/users/1215281926105989120" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="40" alt="discord logo"  />
-  </a>
-</div>
+---
 
-###
-<hr/>
+### 🧩 Beyond the Code
+* **Problem Solver:** I love the "Aha!" moment when a complex bug finally gets fixed.
+* **Chess Enthusiast:** I enjoy the strategy and foresight required in a good game of chess.
+* **Gamer:** When I'm not coding, you'll likely find me exploring virtual worlds.
 
-<h3 align="left">TECHNOLOGY STACK :</h3>
+---
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
-
-###
-<hr/>
-
-<h3 align="left">STATS :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kisekiii25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kisekiii25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-<hr/>
-
-<h3 align="left">MY SPOTIFY :</h3>
-
-###
-
-<br clear="both">
-
-<img align="right" height="220" src="https://64.media.tumblr.com/d94a09a4cee89de17b908b67d385d612/e0186e53a42a6120-00/s540x810/18361329f6bb2ee37ad728a77c0c4b3aee8a8704.gifv"  />
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/316qtw4a5nqi36ds5a3swv5w3254">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316qtw4a5nqi36ds5a3swv5w3254&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-###
-<hr/>
+### 📊 GitHub Stats
+![Keivin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kisekiii25&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kisekiii25&layout=compact&theme=radical)
